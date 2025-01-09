@@ -42,7 +42,3 @@ Custom measures were created to calculate:
 
 ## Value Delivered  
 This dashboard provides actionable insights by identifying underperforming regions and products, evaluating customer profitability, and tracking sales trends over time. The interactive visuals enable stakeholders to drill down into data for detailed analysis.
-
----
-
-Feel free to copy this into your GitHub repository's README file! Let me know if you'd like further edits or enhancements.
